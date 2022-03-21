@@ -1,0 +1,8 @@
+Guitar
+Гитара
+Vocal
+Вокал
+Bass
+Бас
+Drums
+Барабаны
